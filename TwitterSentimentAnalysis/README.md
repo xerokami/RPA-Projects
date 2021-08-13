@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/6055456/129325752-c346e038-c68b-4657-b52b-662883ad5614.mp4
+
 ## Twitter Sentiment Analysis
 
 Scraping latest GME related tweets and using sentiment analysis to calculate the sentiment of each tweet.<br />
