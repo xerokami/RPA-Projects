@@ -10,15 +10,15 @@
         "C:\\Users\\Jamie\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\microsoft.visualstudio.ole.interop/16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4"
@@ -29,10 +29,10 @@
         "Version": "1.10.5"
       },
       "Assemblies": [
-        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
@@ -48,8 +48,8 @@
         "C:\\Users\\Jamie\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities/1.10.5\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities/1.10.5\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities/1.10.5\\lib/net461/UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities/1.10.5\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities/1.10.5\\lib/net461/UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5"
@@ -126,25 +126,45 @@
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.CV.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.CV.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomation.Activities.Package.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationCore.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities/21.4.4\\lib/net461/UiPath.Wizards.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.8.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\Jamie\\.nuget\\packages\\avalonedit/6.0.1\\lib/net45/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\restsharp/106.3.1\\lib/net452/RestSharp.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities/1.8.0-preview\\lib/net461/UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities/1.8.0-preview\\lib/net461/UiPath.Web.Activities.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities/1.8.0-preview\\lib/net461/UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities\\1.8.0-preview"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "6.0.1",
+      "Dependencies": []
+    },
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.87.1",
@@ -601,6 +621,11 @@
       "Version": "1.8.8",
       "Dependencies": []
     },
+    "RestSharp": {
+      "Id": "RestSharp",
+      "Version": "106.3.1",
+      "Dependencies": []
+    },
     "SharpZipLib": {
       "Id": "SharpZipLib",
       "Version": "1.2.0",
@@ -968,9 +993,41 @@
           "Item2": "[2.7.3, )"
         }
       ]
+    },
+    "UiPath.WebAPI.Activities": {
+      "Id": "UiPath.WebAPI.Activities",
+      "Version": "1.8.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.3.1, )"
+        }
+      ]
     }
   },
   "AllPackages": [
+    {
+      "Package": {
+        "Id": "AvalonEdit",
+        "Version": "6.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Jamie\\.nuget\\packages\\avalonedit\\6.0.1\\lib\\net45\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\Jamie\\.nuget\\packages\\avalonedit\\6.0.1"
+    },
     {
       "Package": {
         "Id": "ClosedXML",
@@ -1007,8 +1064,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
+        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\google.apis\\1.43.0"
     },
@@ -1018,8 +1075,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\google.apis.auth\\1.43.0"
     },
@@ -1350,10 +1407,10 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\npoi\\2.4.1"
     },
@@ -1366,6 +1423,16 @@
         "C:\\Users\\Jamie\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\lib\\net40\\BouncyCastle.Crypto.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\portable.bouncycastle\\1.8.8"
+    },
+    {
+      "Package": {
+        "Id": "RestSharp",
+        "Version": "106.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Jamie\\.nuget\\packages\\restsharp\\106.3.1\\lib\\net452\\RestSharp.dll"
+      ],
+      "Path": "C:\\Users\\Jamie\\.nuget\\packages\\restsharp\\106.3.1"
     },
     {
       "Package": {
@@ -1544,8 +1611,8 @@
       },
       "Assemblies": [
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.excel.activities\\2.10.4"
@@ -1557,8 +1624,8 @@
       },
       "Assemblies": [
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5\\lib\\net461\\UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5\\lib\\net461\\UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.mail.activities\\1.10.5"
@@ -1627,12 +1694,12 @@
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.CV.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.CV.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomation.Activities.Package.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationCore.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4\\lib\\net461\\UiPath.Wizards.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.4"
@@ -1645,12 +1712,24 @@
       "Assemblies": [
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.vision\\3.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.8.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities\\1.8.0-preview\\lib\\net461\\UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities\\1.8.0-preview\\lib\\net461\\UiPath.Web.Activities.dll",
+        "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities\\1.8.0-preview\\lib\\net461\\UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\Jamie\\.nuget\\packages\\uipath.webapi.activities\\1.8.0-preview"
     }
   ]
 }
